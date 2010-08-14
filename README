@@ -1,0 +1,5 @@
+Primitive mplayer control script/frontend. 
+
+Rationale: I didn't want to use existing GUI mplayer frontends.
+
+This builds on mplayer slave mode. It can also more than one video at a time by multiplexing over existing sockets.
